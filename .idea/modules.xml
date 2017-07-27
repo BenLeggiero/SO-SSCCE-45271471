@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Test 2017-07-27.iml" filepath="$PROJECT_DIR$/Test 2017-07-27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/Blue-Base/JVM/Blue Base.iml" filepath="$PROJECT_DIR$/lib/Blue-Base/JVM/Blue Base.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/lib/Husky-UI/Core/JVM/Husky UI.iml" filepath="$PROJECT_DIR$/lib/Husky-UI/Core/JVM/Husky UI.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/lib/Husky-UI/JVM/Husky UI JVM/JVM.iml" filepath="$PROJECT_DIR$/lib/Husky-UI/JVM/Husky UI JVM/JVM.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/Test 2017-07-27.iml" filepath="$PROJECT_DIR$/Test 2017-07-27.iml" group="App" />
     </modules>
   </component>
 </project>
