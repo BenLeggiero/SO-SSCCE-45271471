@@ -7,3 +7,6 @@
 [submodule "lib/Blue-Base/Core"]
 	path = lib/Blue-Base/Core
 	url = https://github.com/BlueHuskyStudios/Blue-Base.git
+[submodule "lib/Blue-Base/JVM"]
+	path = lib/Blue-Base/JVM
+	url = https://github.com/BenLeggiero/Blue-Base-JVM.git
